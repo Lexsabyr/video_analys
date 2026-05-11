@@ -110,26 +110,6 @@ API_KEY = "AIzaSyXXXXXXXXXXXX"
 
 ---
 
-# ВАЖНО
-
-Никогда НЕ публикуйте API ключ на GitHub.
-
-НЕ загружайте:
-
-```python
-API_KEY = "AIza..."
-```
-
-в public repository.
-
-Используйте:
-
-```python
-API_KEY = "YOUR_API_KEY"
-```
-
----
-
 # Лимиты бесплатного Gemini API
 
 Free Tier имеет ограничения.
