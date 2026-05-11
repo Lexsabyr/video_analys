@@ -16,7 +16,7 @@ from google.genai import types
 # API KEY
 # =========================================================
 
-API_KEY = "API KEY"
+API_KEY = "YOUR_API_KEY"
 
 client = genai.Client(api_key=API_KEY)
 
