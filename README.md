@@ -1,4 +1,4 @@
-# AI Video Moderation with Gemini
+# AI Video Moderation with Gemin
 
 AI система модерации видео на Python с использованием Gemini API.
 
